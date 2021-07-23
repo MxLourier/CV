@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Maya's personal site</title>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img src="https://sun6-23.userapi.com/s/v1/if1/zr0AcBGSdKmE4PsFBDGJbI9PbPCJqhE9B6YGpXxOdwxzgoLPZFks4-wL6vxSYx-PyLpfNyBg.jpg?size=200x0&quality=96&crop=0,221,1218,1713&ava=1" alt="Maya Lourie profile picture">
+      </td>
+      <td>
+        <h1>Maya Lourie</h1>
+        <p><em>Baker at <strong><a href="https://www.facebook.com/pavlinamihaylovabread">Pavlina Mikhailova Artisan Bread</a></strong></em></p>
+        <p>I bake sourdough artisan bread, as well as various sweet and savoury baked goods.
+          Fluent in Russian, English, and Hebrew, conversational level in Bulgarian,
+          basic knowledge of Japanese.
+          4 months experience in tech support, 6 months experience in breadmaking.</p>
+      </td>
+    </tr>
+  </table>
+  <!--<img src="Bobik.jpg" alt="Bobik picture">
+    -->
+  <hr>
+  <h3>Education</h3>
+  <ul>
+    <li>Finished <strong><a href="http://rus-edu.bg/">School of the Russian Embassy in Bulgaria</a></strong> in 2017.</li>
+    <li>Studied at <strong><a href="https://www.uni-sofia.bg/">St Kliment Okhridski</a></strong> university 2017-2020.</li>
+  </ul>
+  <hr>
+  <h3>Work experience</h3>
+  <table cellspacing="10">
+    <thead>
+      <tr>
+        <th>Dates</th>
+        <th>Position</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2020-2021</td>
+        <td>Teleagent at Telus International</td>
+      </tr>
+      <tr>
+        <td>2021-present</td>
+        <td>Baker at Pavlina Mihailova Artisan Bread Bakery</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+  <h3>Skills</h3>
+  <table border="1" cellspacing="10">
+    <tr>
+      <td>
+        <table cellspacing="10">
+          <tr>
+            <td>breadmaking</td>
+            <td>⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>English language</td>
+            <td>⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Russian language</td>
+            <td>⭐⭐⭐⭐⭐</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table cellspacing="10">
+          <tr>
+            <td>Hebrew language</td>
+            <td>⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Bulgarian language</td>
+            <td>⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Japanese language</td>
+            <td>⭐⭐</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+
+  </table>
+
+  <a href="Hobbies.html">My hobbies</a>
+  <a href="Contacts.html">Contact me</a>
+</body>
+
+</html>
